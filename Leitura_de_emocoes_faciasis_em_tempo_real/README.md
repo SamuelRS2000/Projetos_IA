@@ -1,0 +1,1 @@
+Treinando um modelo com a arquitetura VGG19 usando a base de dados FER2013 para o reconhecimento de cinco emoções. Utilizando este modelo para analisar as emoções em tempo real, aplicando-o frame a frame no vídeo capturado ao vivo pela câmera do computador.
