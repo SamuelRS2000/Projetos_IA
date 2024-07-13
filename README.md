@@ -1,1 +1,0 @@
-Projeto realizado em 2023 na disciplina de Noções de Inteligência Artificial ofertada pela UNB. Com finalidade didática, aplicou-se regressão linear em um problema de avaliação de vinhos, que é, por natureza, um problema de classificação e não linear, resultando em resultados insatisfatórios.
