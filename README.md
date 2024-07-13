@@ -1,1 +1,1 @@
-Projetos que ja realizei com IA.
+Projetos que já realizei com Inteligência Artificial.
